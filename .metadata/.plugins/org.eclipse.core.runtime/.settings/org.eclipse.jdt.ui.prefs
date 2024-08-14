@@ -1,0 +1,22 @@
+content_assist_favorite_static_members=org.testng.Assert.*;org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*;org.mockito.ArgumentMatchers.*;org.mockito.Mockito.*;org.assertj.core.api.Assertions.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Java_Basics.NonStaticMethod"><rhs name\="Java_Basics.NonStaticMethod"/></lhs><lhs name\="Java_Basics.Assignment_Overloading"><rhs name\="Java_Basics.Assignment_Overloading"/></lhs><lhs name\="Java_Basics.Exam_One"><rhs name\="Java_Basics.Exam_One"/></lhs><lhs name\="Java_Basics.Assignment_global_variable"><rhs name\="Java_Basics.Assignment_global_variable"/></lhs><lhs name\="Math_Class.Area_OfCircle"><rhs name\="Math_Class.Area_OfCircle"/></lhs><lhs name\="Math_Class.Area_OfCircle_NonStatic"><rhs name\="Math_Class.Area_OfCircle_NonStatic"/></lhs><lhs name\="Java_Basics.simple_prog"><rhs name\="Java_Basics.simple_prog"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="Constructor.This_calling_statement"><rhs name\="Constructor.This_calling_statement"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+sourceHoverBackgroundColor=255,255,225
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=windows-1252
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

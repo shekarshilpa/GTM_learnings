@@ -1,0 +1,28 @@
+package String;
+
+import java.util.Arrays;
+
+public class String_length_assign_special_character 
+{
+	static int count_of_alphabets =0;;
+	public static void main(String[] args) 
+	{
+		String name = "my name is Shilpa @#$$";
+		int lenght_of_name =name.length();
+		System.out.println(lenght_of_name);
+		char c1[]=name.toCharArray();
+		System.out.println(c1);
+		System.out.println(Arrays.toString(c1));
+		
+		for(int i=0;i<lenght_of_name;i++)
+		{
+			boolean b1 = Character.isDigit(c1[i]);
+			if(b1==true)
+			{
+			count_of_alphabets++;
+			}
+		}
+		System.out.println("the num of alpha"+count_of_alphabets);
+	}
+
+}

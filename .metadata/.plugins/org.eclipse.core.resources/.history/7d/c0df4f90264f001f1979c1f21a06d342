@@ -1,0 +1,10 @@
+import javax.print.attribute.standard.Chromaticity;
+
+public class LaunchBrowser {
+
+	public static void main(String[] args) 
+	{
+		ChromeDriver driver = new ChromeDriver();
+	}
+
+}
